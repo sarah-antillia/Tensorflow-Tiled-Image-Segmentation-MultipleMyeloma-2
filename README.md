@@ -29,7 +29,7 @@ We trained and validated a TensorFlow UNet model using the Tiled-MultipleMyeloma
 
 <b>2. Tiled Image Segmentation</b><br>
 We applied our Tiled-Image Segmentation inference method to predict the HardExudates regions for the mini_test images 
-with a resolution of 2040x1536 pixels.<br><br>
+with a resolution of 2560x1920 pixels.<br><br>
 
 <hr>
 <b>Actual Tiled Image Segmentation for Images of 2560x1920 pixels</b><br>
